@@ -1,4 +1,4 @@
-name: "[6. CD] │ Desplegar Function App"
+name: "[⚪ CD] │ Desplegar Function App"
 
 on:
   workflow_dispatch:
