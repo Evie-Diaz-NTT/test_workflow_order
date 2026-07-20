@@ -1,0 +1,10 @@
+name: "4.2.1 CD │ Desplegar Function App"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "4.2.1 CD Function"

@@ -1,0 +1,10 @@
+name: "1.1.2 Rollback Crear Variable (Dev/UAT) │ Revertir en Azure"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "1.1.2 Rollback (dev/uat) - Create App Setting"

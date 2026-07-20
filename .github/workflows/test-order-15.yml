@@ -1,0 +1,10 @@
+name: "4.1 CI │ Empaquetar Function App y Publicar en JFrog"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "4.1 CI Function"

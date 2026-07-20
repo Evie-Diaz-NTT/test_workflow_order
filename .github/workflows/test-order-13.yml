@@ -1,0 +1,10 @@
+name: "2.2 Rollback Actualizar Variable │ Restaurar valor anterior"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "2.2 Rollback - Update Variable"

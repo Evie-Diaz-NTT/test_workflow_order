@@ -1,0 +1,10 @@
+name: "2.1 Actualizar Variable (Azure) │ App Setting"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "2.1 Update App Setting"

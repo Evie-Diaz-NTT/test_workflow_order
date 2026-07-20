@@ -1,0 +1,10 @@
+name: "1.2.2 Rollback Crear Variable (PRD) │ Revertir Pull Request"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "1.2.2 Rollback (prd) - Create Variable PR"

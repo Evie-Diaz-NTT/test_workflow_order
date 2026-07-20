@@ -1,0 +1,10 @@
+name: "1.1.1 Crear Variable (Dev/UAT) │ Azure + Pull Request"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "1.1.1 Create Variable (dev/uat) - Azure + Code Pull Request"
