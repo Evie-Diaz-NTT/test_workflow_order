@@ -1,4 +1,4 @@
-name: " [D. Rollback] Crear Variable (PRD) │ Revertir Pull Request"
+name: " [2. Rollback] Crear Variable (PRD) │ Revertir Pull Request"
 
 on:
   workflow_dispatch:

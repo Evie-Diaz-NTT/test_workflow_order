@@ -1,4 +1,4 @@
-name: "    [A. Listar] Variables │ App Settings en Azure"
+name: "    [4. Listar] Variables │ App Settings en Azure"
 
 on:
   workflow_dispatch:

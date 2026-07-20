@@ -1,4 +1,4 @@
-name: "  [B. Actualizar] Variable en Azure"
+name: "  [3. Actualizar] Variable en Azure"
 
 on:
   workflow_dispatch:
