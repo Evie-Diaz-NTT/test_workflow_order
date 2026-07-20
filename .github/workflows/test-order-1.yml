@@ -1,0 +1,10 @@
+name: "Create Variable (dev/uat): Azure + Code PR"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Test workflow 1 - Create Variable (dev/uat): Azure + Code PR"

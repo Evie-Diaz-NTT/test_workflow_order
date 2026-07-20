@@ -1,0 +1,10 @@
+name: "Rollback (dev/uat): Create App Setting (Azure + Código)"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Test workflow 3 - Rollback (dev/uat): Create App Setting (Azure + Código)"

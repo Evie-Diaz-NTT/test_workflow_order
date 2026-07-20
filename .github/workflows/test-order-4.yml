@@ -1,0 +1,10 @@
+name: "Rollback (prd): Create variable PR"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Test workflow 4 - Rollback (prd): Create variable PR"
