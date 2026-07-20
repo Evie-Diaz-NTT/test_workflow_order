@@ -1,4 +1,4 @@
-name: "(🟣 Crear] Variable (Dev/UAT) │ Azure + Pull Request"
+name: "(🟣 Crear) Variable (Dev/UAT) │ Azure + Pull Request"
 
 on:
   workflow_dispatch:
