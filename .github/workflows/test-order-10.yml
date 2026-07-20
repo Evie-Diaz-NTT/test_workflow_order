@@ -1,4 +1,4 @@
-name: "   (🟠 Crear) Variable (PRD) │ Solo Pull Request"
+name: "    (🟠 Crear) Variable (PRD) │ Solo Pull Request"
 
 on:
   workflow_dispatch:

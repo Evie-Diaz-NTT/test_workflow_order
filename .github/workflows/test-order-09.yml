@@ -1,4 +1,4 @@
-name: "    (🟣 Rollback) Crear Variable (Dev/UAT) │ Revertir en Azure"
+name: "     (🟣 Rollback) Crear Variable (Dev/UAT) │ Revertir de Azure y cambio de Pull Request"
 
 on:
   workflow_dispatch:
