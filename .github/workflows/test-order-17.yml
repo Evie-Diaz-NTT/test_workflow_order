@@ -1,4 +1,4 @@
-name: "4.2.2 Rollback Deploy Function App │ Revertir versión anterior"
+name: "[Rollback] Deploy Function App │ Revertir versión anterior"
 
 on:
   workflow_dispatch:

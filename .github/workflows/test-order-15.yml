@@ -1,4 +1,4 @@
-name: "4.1 CI │ Empaquetar Function App y Publicar en JFrog"
+name: "[CI] Empaquetar Function App y Publicar en JFrog"
 
 on:
   workflow_dispatch:
