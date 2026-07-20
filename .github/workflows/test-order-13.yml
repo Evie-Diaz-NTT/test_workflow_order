@@ -1,4 +1,4 @@
-name: "  [Rollback] Actualizar Variable │ Restaurar valor anterior"
+name: "  [B. Rollback] Actualizar Variable │ Restaurar valor anterior"
 
 on:
   workflow_dispatch:
